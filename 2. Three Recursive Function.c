@@ -51,9 +51,9 @@ int main() {
     // Tail Recursive Factorial
     printf("Tail Recursive Factorial of %u = %llu\n", num, factorial(num));
 
-    // Memoization-based Recursive Factorial
+    // Memoization-Based Recursive Factorial
     if (num < 20) {
-        printf("Memoization-based Recursive Factorial of %u = %llu\n", num, factorialMemo(num));
+        printf("Memoization-Based Recursive Factorial of %u = %llu\n", num, factorialMemo(num));
     } else {
         printf("Input too large for memoization example.\n");
     }
