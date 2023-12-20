@@ -1,23 +1,14 @@
 # 20_009_Data_Structure_Lab
+Project For Final Exam
 Data structures And Algorithms Using C
 <br>
-Project For Final Exam
-<br>
-Data structure:
-<br>
-Stacks
-<br>
-Queues
-<br>
-Trees
-<br>
-Searching Algorithms
+# Searching Algorithms:
 <br>
 Linear search
 <br>
 Binary search
 <br>
-Sorting Algorithms
+# Sorting Algorithms:
 <br>
 Bubble sort
 <br>
@@ -25,17 +16,22 @@ Selection Sort
 <br>
 Insertion Sort
 <br>
-Quick Sort and Marge Sort
+# Recursive Function
 <br>
-Recursive Function
+# Fibonacci Series
 <br>
-Fibonacci Series
+# Tower of Hanoi
 <br>
-Tower of Hanoi
+# Stacks
 <br>
-Linked List
+# Queues
 <br>
-Singly Linked List
+# Singly Linked List
 <br>
-Traversal of Singly, Doubly and Circular Linked List
-
+# Linked List
+<br>
+# Traversal of Singly, Doubly and Circular Linked List
+<br>
+# Quick Sort and Marge Sort
+<br>
+# Binary Tree
