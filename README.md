@@ -14,8 +14,8 @@ Selection Sort
 <br>
 Insertion Sort
 <br>
- Quick Sort and Marge Sort
- <br>
+Quick Sort and Marge Sort
+<br>
 ** Recursive Function
 <br>
 ** Fibonacci Series
@@ -28,7 +28,7 @@ Insertion Sort
 <br>
 ** Singly Linked List
 <br>
-# Linked List
+** Linked List
 <br>
 ** Traversal of Singly, Doubly and Circular Linked List
 <br>
