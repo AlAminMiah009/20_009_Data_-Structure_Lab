@@ -1,6 +1,7 @@
 # 20_009_Data_Structure_Lab
 Data structures And Algorithms Using C
-<br>Searching Algorithms:
+<br>
+Searching Algorithms:
 <br>
 Linear search
 <br>
