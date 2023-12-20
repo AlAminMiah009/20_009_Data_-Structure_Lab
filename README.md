@@ -1,6 +1,6 @@
 # 20_009_Data_Structure_Lab
 <br>
-**#** Searching Algorithms:
+** Searching Algorithms:
 <br>
 Linear search
 <br>
