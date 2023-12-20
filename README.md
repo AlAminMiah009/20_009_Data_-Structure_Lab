@@ -30,4 +30,3 @@ Bubble sort
 Selection Sort
 <br>
 Insertion Sort
-<br>
