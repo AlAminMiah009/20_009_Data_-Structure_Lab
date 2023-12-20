@@ -14,7 +14,8 @@ void printMenu() {
     printf("\n\t\t\t\033[1;36m3.  Bubble Sort\n");
     printf("\n\t\t\t\033[1;35m4.  Insertion Sort\n");
     printf("\n\t\t\t\033[1;37m============================\n");
-    printf("\n\033[0m"); // Reset text color to default
+    printf("\n\033[0m"); 
+    // Reset text color to default
 }
 
 int main() {
