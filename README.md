@@ -5,17 +5,11 @@ Project For Final Exam
 <br>
 Data structure:
 <br>
-Array
-<br>
 Stacks
 <br>
 Queues
 <br>
-Linked Lists
-<br>
 Trees
-<br>
-Algorithms:
 <br>
 Searching Algorithms
 <br>
@@ -30,3 +24,18 @@ Bubble sort
 Selection Sort
 <br>
 Insertion Sort
+<br>
+Quick Sort and Marge Sort
+<br>
+Recursive Function
+<br>
+Fibonacci Series
+<br>
+Tower of Hanoi
+<br>
+Linked List
+<br>
+Singly Linked List
+<br>
+Traversal of Singly, Doubly and Circular Linked List
+
