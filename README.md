@@ -1,12 +1,12 @@
 # 20_009_Data_Structure_Lab
 <br>
-# Searching Algorithms:
+** Searching Algorithms:
 <br>
 Linear search
 <br>
 Binary search
 <br>
-# Sorting Algorithms:
+** Sorting Algorithms:
 <br>
 Bubble sort
 <br>
@@ -15,20 +15,20 @@ Selection Sort
 Insertion Sort
 <br>
  Quick Sort and Marge Sort
-# Recursive Function
+** Recursive Function
 <br>
-# Fibonacci Series
+** Fibonacci Series
 <br>
-# Tower of Hanoi
+** Tower of Hanoi
 <br>
-# Stacks
+** Stacks
 <br>
-# Queues
+** Queues
 <br>
-# Singly Linked List
+** Singly Linked List
 <br>
 # Linked List
 <br>
-# Traversal of Singly, Doubly and Circular Linked List
+** Traversal of Singly, Doubly and Circular Linked List
 <br>
-# Binary Tree
+** Binary Tree
